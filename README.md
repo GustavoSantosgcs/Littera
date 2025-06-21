@@ -25,7 +25,7 @@ O foco é **estimular constância** e tornar a leitura um hábito prazeroso — 
 | 📈 | **Estimativas de Leitura** | Projeções para livros digitais, físicos e total em 5 anos. |
 | ⏱ | **Cálculo de Tempo** | Converte horas semanais em horas anuais (multiplica por 52). |
 | ⚖️ | **Análise de Equilíbrio** | Feedback instantâneo sobre a divisão Estudo × Lazer. |
-| 📚 | **Recomendações de Gênero** | Comentário curto + indicação de 2 livros para mais de 15 gêneros (inclui Comédia). |
+| 📚 | **Recomendações de Gênero** | Comentário curto + indicação de 2 livros para mais diversos gêneros. |
 | 🎯 | **Dicas por Formato** | Sugestões diferentes para Kindle, papel ou ambos. |
 
 ---

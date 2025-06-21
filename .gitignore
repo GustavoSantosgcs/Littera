@@ -1,1 +1,3 @@
-"__pycache__/\n*.pyc" 
+# Byte-code e cache
+__pycache__/
+*.py[cod]

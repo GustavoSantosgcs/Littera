@@ -62,7 +62,7 @@ O foco é **estimular constância** e tornar a leitura um hábito prazeroso — 
 
 ---
 
-## **🔮 Melhorias Futuras **
+## **🔮 Melhorias Futuras**
 - 🎨 Interface GUI com CustomTkinter 
 
 - 💾 Persistência em JSON para histórico de leituras

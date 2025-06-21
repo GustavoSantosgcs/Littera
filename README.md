@@ -2,29 +2,31 @@
 
 ---
 
-## 📌 **Descrição**
+## 📌 Descrição
 
-**Littera** é um aplicativo de terminal em Python que ajuda você a refletir sobre seus **hábitos de leitura**.  
-Ele coleta informações simples (livros lidos, horas semanais de estudo × lazer, preferências de formato) e gera:
+**Littera** é um aplicativo de **terminal** em Python que convida você a refletir sobre seus **hábitos de leitura**.  
+A partir de algumas perguntas (livros lidos, horas de estudo × lazer, formato preferido, gênero favorito) o programa gera:
 
 * mensagens motivacionais personalizadas;
-* estimativas de livros que você lerá nos próximos 5 anos (digital × físico e total);
+* estimativa de livros que você lerá nos próximos **5 anos** (digital × físico e total);
 * análise de equilíbrio entre estudo e entretenimento;
-* dicas de leitura de acordo com seu formato favorito.
+* **dicas de leitura por gênero** (terror, fantasia, futebol, comédia etc.);
+* sugestões específicas de acordo com seu formato favorito (Kindle, papel ou ambos).
 
-O foco é **estimular constância** e tornar a leitura um hábito prazeroso — sem dependências externas nem bancos de dados complexos.
+O foco é **estimular constância** e tornar a leitura um hábito prazeroso — sem dependências externas nem banco de dados complexo.
 
 ---
 
-## 🚀 **Funcionalidades**
+## 🚀 Funcionalidades
 
 | 💡 | Recurso | Descrição |
 |----|---------|-----------|
-| ✅ | **Entrada guiada** | Validação de campos (strings não vazias, inteiros positivos, preferências 1-3). |
+| ✅ | **Entrada guiada** | Validação de strings não vazias, inteiros positivos e menus numéricos. |
 | 📈 | **Estimativas de Leitura** | Projeções para livros digitais, físicos e total em 5 anos. |
-| ⏱ | **Cálculo de Tempo** | Horas anuais dedicadas a estudo e lazer (52 semanas). |
-| ⚖️ | **Análise de Equilíbrio** | Feedback instantâneo sobre distribuição estudo × lazer. |
-| 🎯 | **Dicas Personalizadas** | Sugestões diferentes para Kindle, papel ou ambos. |
+| ⏱ | **Cálculo de Tempo** | Converte horas semanais em horas anuais (multiplica por 52). |
+| ⚖️ | **Análise de Equilíbrio** | Feedback instantâneo sobre a divisão Estudo × Lazer. |
+| 📚 | **Recomendações de Gênero** | Comentário curto + indicação de 2 livros para mais de 15 gêneros (inclui Comédia). |
+| 🎯 | **Dicas por Formato** | Sugestões diferentes para Kindle, papel ou ambos. |
 
 ---
 
